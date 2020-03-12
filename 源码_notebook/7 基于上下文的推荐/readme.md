@@ -1,0 +1,1 @@
+![Image text](https://github.com/Cong-Huang/RecSys-Dev-Practice/blob/master/kg/7%E5%9F%BA%E4%BA%8E%E4%B8%8A%E4%B8%8B%E6%96%87%E7%9A%84%E6%8E%A8%E8%8D%90.png)
